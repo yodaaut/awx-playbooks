@@ -1,5 +1,4 @@
 ---
-- name: Proxmox
-  hosts: all
+- hosts: all
   roles:
   - yodaaut.proxmox
