@@ -1,5 +1,6 @@
 ---
-- src: https://github.com/yodaaut/ansible-role-proxmox
-  version: awx
-  name: yodaaut.proxmox
+roles:
+  - src: https://github.com/yodaaut/ansible-role-proxmox
+    version: awx
+    name: yodaaut.proxmox
 collections: []
