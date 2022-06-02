@@ -1,5 +1,5 @@
 ---
 - name: Proxmox
-  hosts: {{ foreman_ipv4 }}
+  hosts: proxmox
   roles:
   - yodaaut.proxmox
