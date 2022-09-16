@@ -3,4 +3,7 @@ roles:
   - src: https://github.com/yodaaut/ansible-role-proxmox
     version: awx
     name: yodaaut.proxmox
+  - src: https://github.com/yodaaut/ansible-role-locale
+    version: awx
+    name: yodaaut.locale
 collections: []
