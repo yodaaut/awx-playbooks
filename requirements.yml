@@ -6,5 +6,8 @@ roles:
   - src: https://github.com/yodaaut/ansible-role-locale
     version: awx
     name: yodaaut.locale
+  - src: https://github.com/yodaaut/ansible-role-chrony
+    version: awx
+    name: yodaaut.chrony
 collections:
   - community.general

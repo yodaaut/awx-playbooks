@@ -4,3 +4,4 @@
   roles:
   - yodaaut.proxmox
   - yodaaut.locale
+  - yodaaut.chrony
